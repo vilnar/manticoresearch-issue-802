@@ -10,6 +10,6 @@ docker-composer up -d
 
 Wait until indexer data is generated, there should be error message
 ```
-docker logs manticore_test
+docker logs manticore_bug_802
 ```
 
